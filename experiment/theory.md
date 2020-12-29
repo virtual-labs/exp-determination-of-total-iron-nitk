@@ -1,1 +1,14 @@
-### Link your theory in here
+### INTRODUCTION<br>
+
+<p style="text-indent:50px; text-align:justify;">The percolation of water through soil and rock dissolves minerals like Iron and Manganese in that and takes along with its flow. Water containing iron and manganese is actually colourless when it is not in contact with the oxygen. But when the same water is exposed to air, it gets oxidized causing change in water colour. The oxidation of dissolved iron particles in water changes the iron to white, then to yellow and finally to red-brown solid particles that settle out of the water. Iron that does not form particles large enough to settle out and that remains as colloidal iron leaves the water with a red tint. Although manganese is present in water in a dissolved form it leaves black tint which is due to the colloidal manganese in shallow wells. This water containing Iron is one of the minerals required by the human body. It is used in the production of the oxygen-carrying proteins, haemoglobin and myoglobin. A deficit of iron in the body can leave a person feeling tired and listless, and can lead to a disorder called anaemia. Presence of iron in water is not harmful for health, but it renders the water turbid, imparts colour to water and hence unacceptable from the aesthetic point. It causes satins in laundries and plumbing fixtures. Its presence may help in the proliferation of iron reducing bacteria in the aquifer and the pipe lines. Hence, the desirable limit is 0.3mg/l in water and the tolerable limit is 1.0mg/l.</p>
+
+<p style="text-indent:50px; text-align:justify;">To detect the presence of these ions in solution, thiocyanate ions (SCN<sup>-</sup>) are added. Thiocyanate ions respond with iron (III) ions in solution to form a deep red coloured complex ion:</p>
+
+<p align="center">Fe<sup>3+</sup>(aq) + SCN<sup>-</sup>(aq) → [FeSCN]<sup>2+</sup>(aq) </p>
+
+<p align="center">or, more fully, [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>(aq) + SCN<sup>-</sup>(aq) → [Fe(H<sub>2</sub>O)<sub>5</sub>SCN]<sup>2+</sup>(aq) + H<sub>2</sub>O (l)</p>
+
+<p style="text-indent:50px; text-align:justify;">By comparing the intensity of the colour of this solution with the colours of a series of standard solutions, with known Fe<sup>3+</sup> concentrations, the concentration of iron in the food sample may be determined. This method is called colorimetry. Colorimetric analysis is based on the change in the intensity of the colour of a solution with dissimilarities in concentration. Colorimetric methods represent the simplest form of absorption analysis. The human eye is used to associate the colour of the sample solution with a set of standards until a match is found. An increase in sensitivity and accuracy results when a spectrophotometer is used to measure the colour intensity. Mainly, it measures the fraction of an incident beam of light, which is transmitted by a sample at a particular wavelength.</p>
+
+#### Relevant Indian Standard for Total Iron Test on Water :
+1. IS 3025 (Part 53) -2003: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater- Iron, First Revision.
