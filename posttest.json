@@ -1,0 +1,46 @@
+[{
+	"question": "The colour of the complex formed after reaction of iron+II with o-phenanthroline is",
+	"answers": {
+		"a": "Orange-red",
+		"b": "Pink",
+		"c": "Blue-green",
+		"d": "Purple"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Wavelength used in Colorimetric Determination of iron Content",
+	"answers": {
+		"a": "310nm",
+		"b": "410nm",
+		"c": "510nm",
+		"d": "600nm"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Desirable limit of iron in water ",
+	"answers": {
+		"a": "0.1mg/l",
+		"b": "0.2mg/l",
+		"c": "0.3mg/l",
+		"d": "0.4mg/l"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Ferric iron combines with thiocyanate ions to form a _______ coloured ferric thiocyanate. ",
+	"answers": {
+		"a": "Orange",
+		"b": "Green",
+		"c": "Blue",
+		"d": "Red"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Deficiency of Iron in body leads to ",
+	"answers": {
+		"a": "Thyroid",
+		"b": "Anemia",
+		"c": "Pellagra",
+		"d": "Osteoporosis"
+	},
+	"correctAnswer": "b"
+}]

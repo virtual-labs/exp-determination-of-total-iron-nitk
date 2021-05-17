@@ -1,0 +1,46 @@
+[{
+	"question": "Colorimetric analysis is based on the change in the intensity of the __________________ of solution with variations in concentrations. ",
+	"answers": {
+		"a": "Temperature",
+		"b": "Light",
+		"c": "Colour",
+		"d": "All of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Colorimetric methods represent the simplest form of ____________ analysis. ",
+	"answers": {
+		"a": "Decomposition",
+		"b": "Absorption",
+		"c": "Adsorption",
+		"d": "Degradation"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Amount of light absorbed depends upon ",
+	"answers": {
+		"a": "The concentration of solution",
+		"b": "The path length of light",
+		"c": "The wavelength of light",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Iron is in ________ oxidation state during reaction. ",
+	"answers": {
+		"a": "+2",
+		"b": "+3",
+		"c": "+4",
+		"d": "0"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Iron+II reacts with __________ to form an orange-red complex ion. ",
+	"answers": {
+		"a": "M-phenanthroline",
+		"b": "O-phenanthroline",
+		"c": "Both",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}]
