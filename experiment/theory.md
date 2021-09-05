@@ -10,5 +10,11 @@
 
 <p style="text-indent:50px; text-align:justify;">By comparing the intensity of the colour of this solution with the colours of a series of standard solutions, with known Fe<sup>3+</sup> concentrations, the concentration of iron in the food sample may be determined. This method is called colorimetry. Colorimetric analysis is based on the change in the intensity of the colour of a solution with dissimilarities in concentration. Colorimetric methods represent the simplest form of absorption analysis. The human eye is used to associate the colour of the sample solution with a set of standards until a match is found. An increase in sensitivity and accuracy results when a spectrophotometer is used to measure the colour intensity. Mainly, it measures the fraction of an incident beam of light, which is transmitted by a sample at a particular wavelength.</p>
 
+#### Phenanthroline Spectrophotometric Method :
+
+<p style="text-indent:50px; text-align:justify;">This method relies on the fact that iron, when converted to its ferrous state by reaction with acidified hydroxylamine, forms a colour-stable complex with phenanthroline. The red coloured complex formed can then be measured with a spectrophotometer at a wavelength of 510 nm. There are two ways to measure the difference in intensity of the light beam. One is the percent transmittance, %T, which is defined as:</p>
+
+<center><a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{100}&space;\fn_jvn&space;\small&space;\mathrm{%T&space;=&space;\frac{I_{0}}{I}&space;=&space;log&space;\tfrac{I}{T}&space;=&space;-logT}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{100}&space;\fn_jvn&space;\small&space;\mathrm{%T&space;=&space;\frac{I_{0}}{I}&space;=&space;log&space;\frac{I}{T}&space;=&space;-logT}" title="\small \mathrm{%T = \frac{I_{0}}{I} = log \tfrac{I}{T} = -logT}" /></a></center></br>
+
 #### Relevant Indian Standard for Total Iron Test on Water :
 1. IS 3025 (Part 53) -2003: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater- Iron, First Revision.
